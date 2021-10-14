@@ -1,2 +1,2 @@
 # Perceptron12_pypi
-Perceptron12_pypi - Perceptron Package
+Perceptron12_pypi - Perceptron Package based on *McCulloch - Pitts Neuron Model*
