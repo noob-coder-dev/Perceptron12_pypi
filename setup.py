@@ -8,7 +8,7 @@ USER_NAME = "noob-coder-dev"
 
 setuptools.setup(
     name=f"{PROJECT_NAME}-{USER_NAME}",
-    version="0.0.1",
+    version="0.0.3",
     author="Manojit Roy",
     author_email="roy.monojit982810@gmail.com",
     description="It's a real-life implementation of McCulloch-Pitts Neuron Model",
@@ -33,3 +33,4 @@ setuptools.setup(
         "matplotlib.pyplot"
     ]
 )
+## new one
