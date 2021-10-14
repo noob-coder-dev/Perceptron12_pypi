@@ -29,8 +29,7 @@ setuptools.setup(
     install_requires=[
         "numpy",
         "tqdm",
-        "pandas",
-        "matplotlib.pyplot"
+        
     ]
 )
 ## new one
